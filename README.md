@@ -331,7 +331,7 @@ Through these implementations, various aspects of time series analysis and predi
 <br></br>
 **[Back to Top](#Machine-Learning-Projects)**
 <br></br>
-## [VAE Models for Image Generation 🖼️✨](https://github.com/tobi303x/Machine-Learning-Projects/blob/main/8_VAE.ipynb)
+## [VAE Models for Image Generation](https://github.com/tobi303x/Machine-Learning-Projects/blob/main/8_VAE.ipynb)🖼️✨
 
 ### **Brief Description of Work Done:**
 The code involves the implementation of a Variational Autoencoder (VAE) using PyTorch for two different datasets: MNIST and Fashion-MNIST. The key tasks performed include:
