@@ -9,7 +9,7 @@
 6. [NLP Tasks with RNN Models 📝🧠](#user-content-nlp-tasks-with-rnn-models)
 7. [LSTM Models for Time Series Prediction 📈⏰](#user-content-lstm-models-for-time-series-prediction)
 8. [VAE Models for Image Generation 🖼️✨](#user-content-vae-models-for-image-generation)
-9. [Reinforcement Learning with DQN CartPole Environment 🕹️🤖](#user-content-reinforcement-learning-with-dqn-cartpole-environment)
+9. [Reinforcement Learning with DQN CartPole Environment 🕹️🤖](#user-content-reinforcement-learning-with-dqn-cartpole-environment.anchor)
 10. 
 # Knowledge Gained
 
