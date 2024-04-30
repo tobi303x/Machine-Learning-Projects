@@ -9,7 +9,7 @@
 6. [NLP Tasks with RNN Models 📝🧠](#NLP-Tasks-with-RNN-Models-📝🧠)
 7. [LSTM Models for Time Series Prediction 📈⏰](#LSTM-Models-for-Time-Series-Prediction-📈⏰)
 8. [VAE Models for Image Generation 🖼️✨](#VAE-Models-for-Image-Generation-🖼️✨)
-9. [Reinforcement Learning with DQN CartPole Environment 🕹️🤖](#user-content-reinforcement-learning-with-dqn-cartpole-environment️)
+9. [Reinforcement Learning with DQN CartPole Environment 🕹️🤖](##user-content-reinforcement-learning-with-dqn-cartpole-environment️)
 
 # Knowledge Gained
 
@@ -389,7 +389,7 @@ Through the implementation of the VAE model on MNIST and Fashion-MNIST datasets,
 <br></br>
 **[Back to Top](#Machine-Learning-Projects)**
 <br></br>
-# [Reinforcement Learning with DQN CartPole Environment](https://github.com/tobi303x/Machine-Learning-Projects/blob/main/9_Reinforcement_learning.ipynb)🕹️🤖
+## [Reinforcement Learning with DQN CartPole Environment](https://github.com/tobi303x/Machine-Learning-Projects/blob/main/9_Reinforcement_learning.ipynb)🕹️🤖
 
 ### **Brief Description of Work Done:**
 The code implements a Deep Q-Network (DQN) agent using PyTorch to play the "CartPole-v1" game environment from the OpenAI Gym.
