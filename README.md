@@ -8,7 +8,7 @@
 5. [CNN Emotion Classification Based on Facial Images 😃📸](#CNN-Emotion-Classification-Based-on-Facial-Images-😃📸)
 6. [NLP Tasks with RNN Models 📝🧠](#NLP-Tasks-with-RNN-Models-📝🧠)
 7. [LSTM Models for Time Series Prediction 📈⏰](#LSTM-Models-for-Time-Series-Prediction-📈⏰)
-8. [VAE Models for Image Generation 🖼️✨](#VAE-Models-for-Image-Generation-🖼️✨)
+8. [VAE Models for Image Generation 🖼️✨](#user-content-vae-models-for-image-generation)
 9. [Reinforcement Learning with DQN CartPole Environment 🕹️🤖](#user-content-reinforcement-learning-with-dqn-cartpole-environment️) 
 # Knowledge Gained
 
