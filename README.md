@@ -10,7 +10,7 @@
 7. [LSTM Models for Time Series Prediction 📈⏰](#LSTM-Models-for-Time-Series-Prediction-📈⏰)
 8. [VAE Models for Image Generation 🖼️✨](#VAE-Models-for-Image-Generation-🖼️✨)
 9. [Reinforcement Learning with DQN CartPole Environment 🕹️🤖](#user-content-reinforcement-learning-with-dqn-cartpole-environment️)
-
+user-content-
 # Knowledge Gained
 
 **Through these projects, I've acquired a diverse set of skills and knowledge in machine learning and deep learning, including:**
