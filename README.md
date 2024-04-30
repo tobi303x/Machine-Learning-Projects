@@ -1,15 +1,15 @@
 # Machine Learning Projects
 ## Table of Contents
-0. [Introduction, PyTorch basics 📖👓]()
-1. [Regression ↗️🏫]()
-2. [Classification 🌸🔍]()
-3. [Clustering Techniques 🧩☯️]()
-4. [Neural Networks Use 💸💰]()
-5. [CNN Emotion Classification Based on Facial Images 😃📸]()
-6. [NLP Tasks with RNN Models 📝🧠]()
-7. [LSTM Models for Time Series Prediction 📈⏰]()
-8. [VAE Models for Image Generation 🖼️✨]()
-9. [Reinforcement Learning with DQN CartPole Environment 🕹️🤖]() 
+0. [Introduction, PyTorch basics 📖👓](#introduction-pytorch-basics-)
+1. [Regression ↗️🏫](#regression-%EF%B8%8F)
+2. [Classification 🌸🔍](#classification-)
+3. [Clustering Techniques 🧩☯️](#clustering-techniques-%EF%B8%8F)
+4. [Neural Networks Use 💸💰](#neural-networks-use-)
+5. [CNN Emotion Classification Based on Facial Images 😃📸](#cnn-emotion-classification-based-on-facial-images-)
+6. [NLP Tasks with RNN Models 📝🧠](#nlp-tasks-with-rnn-models-)
+7. [LSTM Models for Time Series Prediction 📈⏰](#lstm-models-for-time-series-prediction-)
+8. [VAE Models for Image Generation 🖼️✨](#vae-models-for-image-generation%EF%B8%8F)
+9. [Reinforcement Learning with DQN CartPole Environment 🕹️🤖](#reinforcement-learning-with-dqn-cartpole-environment%EF%B8%8F) 
 # Knowledge Gained
 
 **Through these projects, I've acquired a diverse set of skills and knowledge in machine learning and deep learning, including:**
