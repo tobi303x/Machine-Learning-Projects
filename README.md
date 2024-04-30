@@ -1,16 +1,16 @@
 # Machine Learning Projects
 ## Table of Contents
-0. [Introduction, PyTorch basics 📖👓](#Introduction,-PyTorch-basics-📖👓)
-1. [Regression ↗️🏫](#Regression-↗️🏫)
-2. [Classification 🌸🔍](#Classification-🌸🔍)
-3. [Clustering Techniques 🧩☯️](#Clustering-Techniques-🧩☯️)
-4. [Neural Networks Use 💸💰](#Neural-Networks-Use-💸💰)
-5. [CNN Emotion Classification Based on Facial Images 😃📸](#CNN-Emotion-Classification-Based-on-Facial-Images-😃📸)
-6. [NLP Tasks with RNN Models 📝🧠](#NLP-Tasks-with-RNN-Models-📝🧠)
-7. [LSTM Models for Time Series Prediction 📈⏰](#LSTM-Models-for-Time-Series-Prediction-📈⏰)
-8. [VAE Models for Image Generation 🖼️✨](#VAE-Models-for-Image-Generation-🖼️✨)
-9. [Reinforcement Learning with DQN CartPole Environment 🕹️🤖](#user-content-reinforcement-learning-with-dqn-cartpole-environment️)
-user-content-
+0. [Introduction, PyTorch basics 📖👓](#user-content-introduction-pytorch-basics)
+1. [Regression ↗️🏫](#user-content-regression)
+2. [Classification 🌸🔍](#user-content-classification)
+3. [Clustering Techniques 🧩☯️](#user-content-clustering-techniques)
+4. [Neural Networks Use 💸💰](#user-content-neural-networks-use)
+5. [CNN Emotion Classification Based on Facial Images 😃📸](#user-content-cnn-emotion-classification-based-on-facial-images)
+6. [NLP Tasks with RNN Models 📝🧠](#user-content-nlp-tasks-with-rnn-models)
+7. [LSTM Models for Time Series Prediction 📈⏰](#user-content-lstm-models-for-time-series-prediction)
+8. [VAE Models for Image Generation 🖼️✨](#user-content-vae-models-for-image-generation)
+9. [Reinforcement Learning with DQN CartPole Environment 🕹️🤖](#user-content-reinforcement-learning-with-dqn-cartpole-environment)
+10. 
 # Knowledge Gained
 
 **Through these projects, I've acquired a diverse set of skills and knowledge in machine learning and deep learning, including:**
